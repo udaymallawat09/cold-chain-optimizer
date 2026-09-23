@@ -21,8 +21,4 @@ This project was built from scratch without relying on external routing librarie
 * **Visualization:** Matplotlib, Seaborn
 * **Frontend UI:** Streamlit
 
-## How to Run Locally
-1. Clone this repository.
-2. Install the requirements: `pip install -r requirements.txt` (or ensure Streamlit, Pandas, Matplotlib, and Seaborn are installed).
-3. Run the dashboard: `streamlit run app.py`
-4. Upload the provided `supply_chain_routes.csv` dataset in the sidebar to simulate the network.
+
